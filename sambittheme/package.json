@@ -1,0 +1,21 @@
+{
+    "name": "Matt-Red",
+    "displayName": "Matt-Red",
+    "description": "a simple dark theme by Sambit",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Matt-Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Matt-Red-color-theme.json"
+            }
+        ]
+    }
+}
